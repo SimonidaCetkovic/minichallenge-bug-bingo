@@ -1,6 +1,6 @@
 <h1>Bug Bingo</h1>
 
-Choose the code snippet with your preferred programming language. Potential issues in the code are shown in the bingo table bellow. Check if the code has any of the potential issues, and record how to resolve them. If you find all 4 of the fields in a row, column, primary or secondary diagonal of the table - call out Bingo!
+Choose the code snippet with your preferred programming language. Potential issues in the code are shown in the bingo table below. Check if the code has any of the potential issues, and record how to resolve them. If you find all 4 of the fields in a row, column, primary or secondary diagonal of the table - call out Bingo!
 
 <table align="center">
     <thead>
