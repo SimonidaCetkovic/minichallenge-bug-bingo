@@ -7,4 +7,4 @@ class ServerTerminator:
         self.__queue = queue
     
     def terminateNextServer(self):
-        server = self.__queue.dequeue().set_status(Status.TERMINATING)
+        self.__queue.dequeue().set_status(Status.TERMINATING)
